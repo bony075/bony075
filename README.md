@@ -1,57 +1,30 @@
-# MERN GitHub Portfolio Profile
+![Wed Developer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+### Hi there 👋, I'm MD HAYATULLA BONY
+#### Wed Developer
 
-## About
 
-Welcome to my GitHub portfolio profile! This profile showcases my projects, skills, and expertise in the MERN (MongoDB, Express.js, React.js, Node.js) stack. As a passionate MERN developer, I have worked on various projects that highlight my capabilities in building modern and robust web applications. Browse through my repositories to explore my work and feel free to reach out for collaborations or inquiries.
+I started a journey when I had a little bit of knowledge about web development. Now I can make an application with routing and Authentication and connect client-side and server-side with the database MongoDB. Now my goal is to become a professional Full Stack Web Developer. For this, I have to search the resources and make notes every day and practice it more and more And think about the learning part and how I can apply it to a project. I will give myself plenty of time, I will give my best to reach my goal. Now web development is a part of life. 
 
-## Projects
+Skills: VUE JS / REACT / JS / HTML / CSS
 
-### Project 1: [Project Name]
+- 🔭 I’m currently working on EMACO SOLUTION LTD. 
+- 🌱 I’m currently learning NEXT.JS 
+- 👯 I’m looking to collaborate on GitHub 
 
-- **Description**: [Brief description of the project]
-- **Repository**: [Link to the GitHub repository]
-- **Live Demo**: [Link to the live demo, if applicable]
 
-### Project 2: [Project Name]
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/bony075)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/md-hayatulla-bony/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://md-hayatulla-bony.netlify.app/)  
 
-- **Description**: [Brief description of the project]
-- **Repository**: [Link to the GitHub repository]
-- **Live Demo**: [Link to the live demo, if applicable]
+<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
 
-### Project 3: [Project Name]
+[![trophy](https://github-profile-trophy.vercel.app/?username=bony075)](https://github.com/ryo-ma/github-profile-trophy)
 
-- **Description**: [Brief description of the project]
-- **Repository**: [Link to the GitHub repository]
-- **Live Demo**: [Link to the live demo, if applicable]
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bony075)](https://github.com/anuraghazra/github-readme-stats)
 
-## Skills
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=bony075&show_icons=true&count_private=true)  
 
-- **Front-end Development**: React.js, HTML, CSS, JavaScript
-- **Back-end Development**: Node.js, Express.js, MongoDB
-- **API Development**: RESTful APIs, GraphQL
-- **Database Management**: MongoDB, Mongoose
-- **Version Control**: Git, GitHub
-- **Deployment**: Heroku, Netlify, AWS, Docker
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=bony075)  
 
-## Contributions
+![GitHub metrics](https://metrics.lecoq.io/bony075)  
 
-I actively contribute to open-source projects and community-driven initiatives. I believe in the power of collaboration and enjoy working with other developers. If you have any interesting projects or ideas that require a MERN developer, I would love to contribute. Feel free to reach out to me through the contact information below.
+![GitHub streak stats](https://streak-stats.demolab.com/?user=bony075)  
 
-## Blog
-
-I maintain a technical blog where I share my insights, tutorials, and tips related to the MERN stack and web development in general. Check out my blog posts to dive deeper into specific topics and gain additional knowledge.
-
-- [Blog 1]: [Link to the blog post]
-- [Blog 2]: [Link to the blog post]
-- [Blog 3]: [Link to the blog post]
-
-## Contact
-
-I am always open to new opportunities, collaborations, and discussions. Connect with me through the following channels:
-
-- Email: [Email address]
-- LinkedIn: [LinkedIn profile URL]
-- Twitter: [Twitter handle]
-- Personal Website: [URL to your personal website]
-
-Let's connect and build amazing projects together!
